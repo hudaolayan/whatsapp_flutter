@@ -1,0 +1,19 @@
+{
+  "whatsapp": "واتساب",
+  "chats": "الدردشات",
+  "status": "التحديثات",
+  "calls": "المكالمات",
+  "communities": "المجتمعات",
+  "settings": "الإعدادات",
+  "account": "الحساب",
+  "privacy": "الخصوصية",
+  "notifications": "الإشعارات",
+  "appLanguage": "لغة التطبيق",
+  "help": "المساعدة",
+  "accountDescription": "إشعارات الأمان، تسجيل الخروج",
+  "privacyDescription": "حظر جهات الاتصال، الرسائل ذاتية الإخفاء",
+  "chatsDescription": "المظهر، خلفيات الشاشة. سجلات الدردشة",
+  "notificationsDescription": "نغمات الرسالة والمجموعة والمكالمة",
+  "appLanguageDescription": "العربية",
+  "helpDescription": "مركز المساعدة، اتصل بنا، سياسة الخصوصية"
+}

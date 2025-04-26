@@ -1,0 +1,19 @@
+{
+  "whatsapp": "whatsapp",
+  "chats": "Chats",
+  "status": "Status",
+  "calls": "Calls",
+  "communities": "Communities",
+  "settings": "Settings",
+  "account": "Account",
+  "privacy": "Privacy",
+  "notifications": "Notifications",
+  "appLanguage": "App Language",
+  "help": "Help",
+  "accountDescription": "Security notifications, log out",
+  "privacyDescription": "Block contacts, disappearing messages",
+  "chatsDescription": "Theme, wallpapers, chat history",
+  "notificationsDescription": "Message, group & call tones",
+  "appLanguageDescription": "English(device's Language)",
+  "helpDescription": "Help center, contact us, privacy policy"
+}

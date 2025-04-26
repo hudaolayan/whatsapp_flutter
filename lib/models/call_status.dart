@@ -1,0 +1,1 @@
+enum CallStatus { INCOMING, OUTGOING, MISSED }
